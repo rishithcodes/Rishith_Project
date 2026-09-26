@@ -1,0 +1,2 @@
+-- Default categories are created per-user upon registration via application logic
+-- No global seed needed
